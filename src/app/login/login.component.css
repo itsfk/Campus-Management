@@ -1,0 +1,17 @@
+.login-container{
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 100px;
+  height: 200px;
+}
+.login-container md-card-actions{
+  float: right;
+}
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+.example-full-width {
+  width: 100%;
+}
